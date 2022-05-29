@@ -11,4 +11,5 @@
 		echo json_encode(array('huft' => $data['status']));
 		include 'mysql_close.php';
 	}
+	// 
 ?>
