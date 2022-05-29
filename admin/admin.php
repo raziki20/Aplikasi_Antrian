@@ -21,6 +21,7 @@
   				<div class="card-body">
     			<h4 class="card-title">Tambah Loket</h4>	
     			<div class="container">
+					<!-- hola -->
     	<form>
     		<div class="jumbotron">
 	        <h1 class="counter">
