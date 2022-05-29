@@ -3,6 +3,7 @@
 	if (!isset($_SESSION["loket_client"])) {
 		$_SESSION["loket_client"] = NULL;
 	}
+	
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -31,6 +32,7 @@
 			<div class="container">
         		<!-- <button class="btn btn-small btn-danger try_queue" type="button" style="float:right;padding:20px;">Ulangi Panggilan &nbsp;<span class="glyphicon glyphicon-volume-up"></span>    
         		</button> -->
+				<!-- asda -->
     	<form>
     		<div class="jumbotron">
 	        <h1 class="next">
