@@ -14,5 +14,6 @@
 		$data = $hasil->fetch_array();
 		echo json_encode(array('huft' => $data['status']));
 		include 'mysql_close.php';
+		// fix
 	}
 ?>
