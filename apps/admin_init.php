@@ -20,4 +20,5 @@
 		}
 	    echo json_encode( array('client'=> $jmlClient) );
     	include 'mysql_close.php';
+		// po
     }

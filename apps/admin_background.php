@@ -18,4 +18,5 @@
 			echo json_encode(array('status'=>1));
 		}
 		include 'mysql_close.php';
+		// s
 	}
