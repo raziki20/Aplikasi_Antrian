@@ -25,5 +25,6 @@
 	    $data['next'] = $next_counter;
 	    echo json_encode($data);
 	    include 'mysql_close.php';
+		// 12
 	}
 ?>
